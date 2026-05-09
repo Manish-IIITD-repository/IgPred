@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **AbCpred**, a computational method developed for predicting B-cell epitopes that induce specific classes of antibodies, such as IgG, IgE, or IgA. While traditional methods focus on general B-cell response, AbCpred provides functional insights into the type of humoral immunity a peptide will trigger, which is crucial for vaccine design and allergy research.
 
-**Web Server:** [http://crdd.osdd.net/raghava/abcpred/](http://crdd.osdd.net/raghava/abcpred/)
+**Web Server:** [http://crdd.osdd.net/raghava/abcpred/](http://crdd.osdd.net/raghava/abcpred/)(https://webs.iiitd.edu.in/raghava/igpred)
 
 ---
 
