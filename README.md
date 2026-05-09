@@ -12,6 +12,8 @@ Gupta, S., Ansari, H. R., Gautam, A., & Raghava, G. P. S. (2013).
 **Identification of B-cell epitopes in an antigen for inducing specific class of antibodies.** *Biology Direct*, 8, 27. 
 [https://doi.org/10.1186/1745-6150-8-27](https://doi.org/10.1186/1745-6150-8-27)
 
+Zonedo:-(https://doi.org/10.5281/zenodo.2009703)
+
 ---
 
 ## About the Platform
