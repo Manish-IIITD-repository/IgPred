@@ -1,4 +1,4 @@
-# AbCpred: Prediction of Antibody Class-Specific B-cell Epitopes
+# igpred: Prediction of Antibody Class-Specific B-cell Epitopes
 
 Welcome to the official documentation for **AbCpred**, a computational method developed for predicting B-cell epitopes that induce specific classes of antibodies, such as IgG, IgE, or IgA. While traditional methods focus on general B-cell response, AbCpred provides functional insights into the type of humoral immunity a peptide will trigger, which is crucial for vaccine design and allergy research.
 
